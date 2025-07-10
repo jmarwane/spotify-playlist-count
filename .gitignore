@@ -1,3 +1,9 @@
+# Ignore creds file
+creds.csv
+
+# Ignore out folder
+out/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
